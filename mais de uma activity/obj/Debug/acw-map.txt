@@ -1,0 +1,8 @@
+mais_de_uma_activity.LoginActivity, mais de uma activity;md5705f92d58eac91205db76de0688e05c0.LoginActivity
+mais_de_uma_activity.LoginActivity, mais de uma activity, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5705f92d58eac91205db76de0688e05c0.LoginActivity
+mais_de_uma_activity.LoginActivity;md5705f92d58eac91205db76de0688e05c0.LoginActivity
+mais_de_uma_activity.LoginActivity;md5705f92d58eac91205db76de0688e05c0.LoginActivity
+mais_de_uma_activity.MainActivity, mais de uma activity;md5705f92d58eac91205db76de0688e05c0.MainActivity
+mais_de_uma_activity.MainActivity, mais de uma activity, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5705f92d58eac91205db76de0688e05c0.MainActivity
+mais_de_uma_activity.MainActivity;md5705f92d58eac91205db76de0688e05c0.MainActivity
+mais_de_uma_activity.MainActivity;md5705f92d58eac91205db76de0688e05c0.MainActivity

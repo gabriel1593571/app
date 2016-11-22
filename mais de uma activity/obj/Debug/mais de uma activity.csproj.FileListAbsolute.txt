@@ -1,0 +1,79 @@
+C:\Users\Mr.Delicia\Desktop\Programação\Visual Studio\Xamarin\mais de uma activity\mais de uma activity\bin\Debug\mais de uma activity.dll
+C:\Users\Mr.Delicia\Desktop\Programação\Visual Studio\Xamarin\mais de uma activity\mais de uma activity\bin\Debug\mais de uma activity.pdb
+C:\Users\Mr.Delicia\Desktop\Programação\Visual Studio\Xamarin\mais de uma activity\mais de uma activity\bin\Debug\mais_de_uma_activity.mais_de_uma_activity.apk
+C:\Users\Mr.Delicia\Desktop\Programação\Visual Studio\Xamarin\mais de uma activity\mais de uma activity\bin\Debug\mais_de_uma_activity.mais_de_uma_activity-Signed.apk
+C:\Users\Mr.Delicia\Desktop\Programação\Visual Studio\Xamarin\mais de uma activity\mais de uma activity\obj\Debug\mais de uma activity.csprojResolveAssemblyReference.cache
+C:\Users\Mr.Delicia\Desktop\Programação\Visual Studio\Xamarin\mais de uma activity\mais de uma activity\obj\Debug\mais de uma activity.dll
+C:\Users\Mr.Delicia\Desktop\Programação\Visual Studio\Xamarin\mais de uma activity\mais de uma activity\obj\Debug\mais de uma activity.pdb
+C:\Users\Mr.Delicia\Desktop\Programação\Visual Studio\Xamarin\mais de uma activity\mais de uma activity\obj\Debug\android\bin\mais_de_uma_activity.mais_de_uma_activity.apk
+C:\Users\Mr.Delicia\Desktop\Programação\Visual Studio\Xamarin\mais de uma activity\mais de uma activity\obj\Debug\res\layout\login.xml
+C:\Users\Mr.Delicia\Desktop\Programação\Visual Studio\Xamarin\mais de uma activity\mais de uma activity\obj\Debug\res\layout\main.xml
+C:\Users\Mr.Delicia\Desktop\Programação\Visual Studio\Xamarin\mais de uma activity\mais de uma activity\obj\Debug\res\values\strings.xml
+C:\Users\Mr.Delicia\Desktop\Programação\Visual Studio\Xamarin\mais de uma activity\mais de uma activity\obj\Debug\res\drawable\icon.png
+C:\Users\Mr.Delicia\Desktop\Programação\Visual Studio\Xamarin\mais de uma activity\mais de uma activity\obj\Debug\R.cs.flag
+C:\Users\Mr.Delicia\Desktop\Programação\Visual Studio\Xamarin\mais de uma activity\mais de uma activity\obj\Debug\uploadflags.txt
+C:\Users\Mr.Delicia\Desktop\Programação\Visual Studio\Xamarin\mais de uma activity\mais de uma activity\bin\Debug\mais de uma activity.dll.mdb
+C:\Users\Mr.Delicia\Desktop\Programação\Visual Studio\Xamarin\mais de uma activity\mais de uma activity\bin\Debug\Java.Interop.dll.mdb
+C:\Users\Mr.Delicia\Desktop\Programação\Visual Studio\Xamarin\mais de uma activity\mais de uma activity\bin\Debug\Mono.Android.dll.mdb
+C:\Users\Mr.Delicia\Desktop\Programação\Visual Studio\Xamarin\mais de uma activity\mais de uma activity\bin\Debug\mscorlib.dll.mdb
+C:\Users\Mr.Delicia\Desktop\Programação\Visual Studio\Xamarin\mais de uma activity\mais de uma activity\bin\Debug\System.ComponentModel.Composition.dll.mdb
+C:\Users\Mr.Delicia\Desktop\Programação\Visual Studio\Xamarin\mais de uma activity\mais de uma activity\bin\Debug\System.Core.dll.mdb
+C:\Users\Mr.Delicia\Desktop\Programação\Visual Studio\Xamarin\mais de uma activity\mais de uma activity\bin\Debug\System.dll.mdb
+C:\Users\Mr.Delicia\Desktop\Programação\Visual Studio\Xamarin\mais de uma activity\mais de uma activity\bin\Debug\System.Net.Http.dll.mdb
+C:\Users\Mr.Delicia\Desktop\Programação\Visual Studio\Xamarin\mais de uma activity\mais de uma activity\bin\Debug\System.Runtime.Serialization.dll.mdb
+C:\Users\Mr.Delicia\Desktop\Programação\Visual Studio\Xamarin\mais de uma activity\mais de uma activity\bin\Debug\System.ServiceModel.Internals.dll.mdb
+C:\Users\Mr.Delicia\Desktop\Programação\Visual Studio\Xamarin\mais de uma activity\mais de uma activity\bin\Debug\System.Xml.dll.mdb
+C:\Users\Mr.Delicia\Desktop\Programação\Visual Studio\Xamarin\mais de uma activity\mais de uma activity\bin\Debug\System.Xml.Linq.dll.mdb
+C:\Users\Mr.Delicia\Desktop\Programação\Visual Studio\Xamarin\mais de uma activity\mais de uma activity\obj\Debug\android\assets\Java.Interop.dll.mdb
+C:\Users\Mr.Delicia\Desktop\Programação\Visual Studio\Xamarin\mais de uma activity\mais de uma activity\obj\Debug\android\assets\mais de uma activity.dll.mdb
+C:\Users\Mr.Delicia\Desktop\Programação\Visual Studio\Xamarin\mais de uma activity\mais de uma activity\obj\Debug\android\assets\Mono.Android.dll.mdb
+C:\Users\Mr.Delicia\Desktop\Programação\Visual Studio\Xamarin\mais de uma activity\mais de uma activity\obj\Debug\android\assets\mscorlib.dll.mdb
+C:\Users\Mr.Delicia\Desktop\Programação\Visual Studio\Xamarin\mais de uma activity\mais de uma activity\obj\Debug\android\assets\System.ComponentModel.Composition.dll.mdb
+C:\Users\Mr.Delicia\Desktop\Programação\Visual Studio\Xamarin\mais de uma activity\mais de uma activity\obj\Debug\android\assets\System.Core.dll.mdb
+C:\Users\Mr.Delicia\Desktop\Programação\Visual Studio\Xamarin\mais de uma activity\mais de uma activity\obj\Debug\android\assets\System.dll.mdb
+C:\Users\Mr.Delicia\Desktop\Programação\Visual Studio\Xamarin\mais de uma activity\mais de uma activity\obj\Debug\android\assets\System.Net.Http.dll.mdb
+C:\Users\Mr.Delicia\Desktop\Programação\Visual Studio\Xamarin\mais de uma activity\mais de uma activity\obj\Debug\android\assets\System.Runtime.Serialization.dll.mdb
+C:\Users\Mr.Delicia\Desktop\Programação\Visual Studio\Xamarin\mais de uma activity\mais de uma activity\obj\Debug\android\assets\System.ServiceModel.Internals.dll.mdb
+C:\Users\Mr.Delicia\Desktop\Programação\Visual Studio\Xamarin\mais de uma activity\mais de uma activity\obj\Debug\android\assets\System.Xml.dll.mdb
+C:\Users\Mr.Delicia\Desktop\Programação\Visual Studio\Xamarin\mais de uma activity\mais de uma activity\obj\Debug\android\assets\System.Xml.Linq.dll.mdb
+C:\Users\Mr.Delicia\Desktop\Programação\Visual Studio\Xamarin\mais de uma activity\mais de uma activity\obj\Debug\mais de uma activity.dll.mdb
+C:\Users\gabri\Downloads\mais de uma activity\mais de uma activity\bin\Debug\mais de uma activity.dll
+C:\Users\gabri\Downloads\mais de uma activity\mais de uma activity\bin\Debug\mais de uma activity.pdb
+C:\Users\gabri\Downloads\mais de uma activity\mais de uma activity\bin\Debug\mais_de_uma_activity.mais_de_uma_activity.apk
+C:\Users\gabri\Downloads\mais de uma activity\mais de uma activity\bin\Debug\mais_de_uma_activity.mais_de_uma_activity-Signed.apk
+C:\Users\gabri\Downloads\mais de uma activity\mais de uma activity\obj\Debug\mais de uma activity.csprojResolveAssemblyReference.cache
+C:\Users\gabri\Downloads\mais de uma activity\mais de uma activity\obj\Debug\mais de uma activity.dll
+C:\Users\gabri\Downloads\mais de uma activity\mais de uma activity\obj\Debug\mais de uma activity.pdb
+C:\Users\gabri\Downloads\mais de uma activity\mais de uma activity\obj\Debug\android\bin\mais_de_uma_activity.mais_de_uma_activity.apk
+C:\Users\gabri\Downloads\mais de uma activity\mais de uma activity\obj\Debug\res\layout\login.xml
+C:\Users\gabri\Downloads\mais de uma activity\mais de uma activity\obj\Debug\res\layout\main.xml
+C:\Users\gabri\Downloads\mais de uma activity\mais de uma activity\obj\Debug\res\values\strings.xml
+C:\Users\gabri\Downloads\mais de uma activity\mais de uma activity\obj\Debug\res\drawable\icon.png
+C:\Users\gabri\Downloads\mais de uma activity\mais de uma activity\obj\Debug\R.cs.flag
+C:\Users\gabri\Downloads\mais de uma activity\mais de uma activity\obj\Debug\uploadflags.txt
+C:\Users\gabri\Downloads\mais de uma activity\mais de uma activity\bin\Debug\Java.Interop.dll.mdb
+C:\Users\gabri\Downloads\mais de uma activity\mais de uma activity\bin\Debug\mais de uma activity.dll.mdb
+C:\Users\gabri\Downloads\mais de uma activity\mais de uma activity\bin\Debug\Mono.Android.dll.mdb
+C:\Users\gabri\Downloads\mais de uma activity\mais de uma activity\bin\Debug\mscorlib.dll.mdb
+C:\Users\gabri\Downloads\mais de uma activity\mais de uma activity\bin\Debug\System.ComponentModel.Composition.dll.mdb
+C:\Users\gabri\Downloads\mais de uma activity\mais de uma activity\bin\Debug\System.Core.dll.mdb
+C:\Users\gabri\Downloads\mais de uma activity\mais de uma activity\bin\Debug\System.dll.mdb
+C:\Users\gabri\Downloads\mais de uma activity\mais de uma activity\bin\Debug\System.Net.Http.dll.mdb
+C:\Users\gabri\Downloads\mais de uma activity\mais de uma activity\bin\Debug\System.Runtime.Serialization.dll.mdb
+C:\Users\gabri\Downloads\mais de uma activity\mais de uma activity\bin\Debug\System.ServiceModel.Internals.dll.mdb
+C:\Users\gabri\Downloads\mais de uma activity\mais de uma activity\bin\Debug\System.Xml.dll.mdb
+C:\Users\gabri\Downloads\mais de uma activity\mais de uma activity\bin\Debug\System.Xml.Linq.dll.mdb
+C:\Users\gabri\Downloads\mais de uma activity\mais de uma activity\obj\Debug\android\assets\Java.Interop.dll.mdb
+C:\Users\gabri\Downloads\mais de uma activity\mais de uma activity\obj\Debug\android\assets\mais de uma activity.dll.mdb
+C:\Users\gabri\Downloads\mais de uma activity\mais de uma activity\obj\Debug\android\assets\Mono.Android.dll.mdb
+C:\Users\gabri\Downloads\mais de uma activity\mais de uma activity\obj\Debug\android\assets\mscorlib.dll.mdb
+C:\Users\gabri\Downloads\mais de uma activity\mais de uma activity\obj\Debug\android\assets\System.ComponentModel.Composition.dll.mdb
+C:\Users\gabri\Downloads\mais de uma activity\mais de uma activity\obj\Debug\android\assets\System.Core.dll.mdb
+C:\Users\gabri\Downloads\mais de uma activity\mais de uma activity\obj\Debug\android\assets\System.dll.mdb
+C:\Users\gabri\Downloads\mais de uma activity\mais de uma activity\obj\Debug\android\assets\System.Net.Http.dll.mdb
+C:\Users\gabri\Downloads\mais de uma activity\mais de uma activity\obj\Debug\android\assets\System.Runtime.Serialization.dll.mdb
+C:\Users\gabri\Downloads\mais de uma activity\mais de uma activity\obj\Debug\android\assets\System.ServiceModel.Internals.dll.mdb
+C:\Users\gabri\Downloads\mais de uma activity\mais de uma activity\obj\Debug\android\assets\System.Xml.dll.mdb
+C:\Users\gabri\Downloads\mais de uma activity\mais de uma activity\obj\Debug\android\assets\System.Xml.Linq.dll.mdb
+C:\Users\gabri\Downloads\mais de uma activity\mais de uma activity\obj\Debug\mais de uma activity.dll.mdb
+C:\Users\gabri\Downloads\mais de uma activity\mais de uma activity\bin\Debug\mais de uma activity.dll.mdb
